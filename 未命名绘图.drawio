@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T04:14:22.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qgL9e2rG5d1va6Pl88xq" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T04:15:45.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="i2uH3fmPIgYJohXKrx79" version="22.0.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="23046e2b9bb16c14-116" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 绿色校园" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontSize=20;align=center;arcSize=3;verticalAlign=top;spacingTop=4;direction=west;gradientColor=#97d077;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="23046e2b9bb16c14-116" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 绿色校园" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontSize=20;align=center;arcSize=0;verticalAlign=top;spacingTop=4;direction=west;gradientColor=#97d077;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="97.5" y="-229.38" width="1032.5" height="536.25" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-70" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;dashed=1;rounded=0;" parent="1" edge="1">
